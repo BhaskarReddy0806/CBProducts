@@ -4,7 +4,7 @@ import SwiftUI
 
 @available(iOS 13.0.0, *)
 @available(macOS 10.15, *)
-struct ContentView: View {
+struct CBProductsView: View {
     var body: some View {
         Text("Hello, World! Your Products package is running successfully.")
         //Test
@@ -13,5 +13,5 @@ struct ContentView: View {
 @available(iOS 13.0.0, *)
 @available(macOS 10.15, *)
 #Preview {
-    ContentView()
+    CBProductsView()
 }
