@@ -34,7 +34,7 @@ public struct ProductsListContainer: View {
                     } catch {
                         print("Error: \(error)")
                     }
-                }.navigationTitle("Products List")
+                }.navigationTitle("Products SDK ProdList")
                 .navigationBarTitleDisplayMode(.automatic)
         }
         
