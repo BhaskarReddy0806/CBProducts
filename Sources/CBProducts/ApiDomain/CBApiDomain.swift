@@ -12,7 +12,7 @@ enum CBApiDomain: String {
     case production = "https://api.escuelajs.co/api/v2";
     //case beta = "https://api.escuelajs.co/api/v1"
 }
-
+//check
 enum ApisEndPoints: String {
     case productsList = "/products"
 }
